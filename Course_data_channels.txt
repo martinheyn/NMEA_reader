@@ -1,0 +1,7 @@
+NMEA Course: 
+
+%  1 - GPS Time in MATLAB Time Format
+%  2 - Groundspeed in knots
+%  3 - Groundspeed in kph
+%  4 - Magnetic course
+%  5 - True course

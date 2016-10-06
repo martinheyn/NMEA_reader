@@ -1,0 +1,29 @@
+imu_x_data_si:
+
+%  1 - Seconds since start of measurement
+%  2 - Sensor prod ID
+%  3 - System status
+%  4 - Power supply
+%  5 - X accelerations
+%  6 - Y accelerations
+%  7 - Z accelerations
+%  8 - X gyro
+%  9 - Y gyro
+% 10 - Z gyro
+% 11 - X temp
+% 12 - Y temp
+% 13 - Z temp
+% 14 - Year
+% 15 - Month
+% 16 - Day
+% 17 - Hour
+% 18 - Minute
+% 19 - Second
+% 20 - Sample in second
+% 21 - Run number
+
+imu_x_eulers:
+
+%  1 - Roll angle phi
+%  2 - Pitch angle theta
+%  3 - Yaw angle psi, but empty at the moment

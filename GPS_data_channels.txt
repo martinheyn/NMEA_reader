@@ -1,0 +1,10 @@
+NMEAGPS:
+
+%  1 - GPS Time in MATLAB Time Format
+%  2 - HDOP (something quality related)
+%  3 - Altitude
+%  4 - Fix (0 = no GPS 1=normal GPS, 2=diff. GPS)
+%  5 - Latitude
+%  6 - Longitude
+%  7 - Number of sats.
+
